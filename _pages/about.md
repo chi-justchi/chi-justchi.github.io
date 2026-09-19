@@ -7,44 +7,45 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Chi Vo**, a Computer Science student at the University of South Florida. I work on **robot learning, vision-language-action models, and embodied AI**, with a particular interest in how learned robot policies behave when they encounter situations that differ from their training data.
-
-Much of my current work keeps bringing me back to one question: > **How can a robot know when its learned behavior can actually be trusted?**
+Hi! I'm **Chi Vo**, a Computer Science student at the University of South Florida. I work on **robot learning, vision-language-action models, and embodied AI**, with a particular interest in how learned robot policies behave when they encounter situations that differ from their training data. Much of my current work keeps bringing me back to one question: **How can a robot know when its learned behavior can actually be trusted?**
 
 I am also a research assistant @ USF advised by Profs. Fengchun Qiao, Yu Sun, and Zhao Han, and research fellow @ Computing Research Association.
 
+## Select Publication(s) [(Full List)](https://scholar.google.com/citations?user=QjXk8OcAAAAJ&hl=en) {#publications}
+{% include publications.html %}
+
 ## Experience {#experience}
 
-- *2026 - Present*, Research Assistant, **Adaptive AI Lab**, University of South Florida, Tampa, FL.  
-<br> *Advisor*: **Prof. Fengchun Qiao**  
-<br> *Project*: **Vision-Language-Action Models for Real-World Robot Manipulation & Deployment-Time Robustness**  
+- *2026.04 - Present*, Research Assistant, Adaptive AI Lab, University of South Florida, Tampa, FL. 
+<br> *Advisor(s)*: [Prof. Fengchun Qiao](https://www.usf.edu/ai-cybersecurity-computing/people/faculty/fengchun_qiao.aspx).
+<br> *Project*: **Vision-Language-Action Models for Real-World Robot Manipulation & Deployment-Time Robustness**
 
-- *2026.08 - Present*, Research Assistant, **Robotic Interface for Sit-to-Stand Assistance (RISA)**, University of South Florida, Tampa, FL.  
-<br> *Advisor*: **Prof. Yu Sun**  
+- *2025.06 - Present*, Research Assistant, Center for Innovation, Technology, and Aging, University of South Florida, Tampa, FL.
+<br> *Advisor(s)*: [Prof. Yu Sun](http://www.cse.usf.edu/~yusun/).
 <br> *Project*: **Predictive Human Simulation for Robotic Sit-to-Stand Assistance**  
 
-- *2025.06 - 2025.08*, Undergraduate Researcher, **CRA UR2PhD Summer Research Experience**, University of South Florida, Tampa, FL.  
-<br> *Advisor*: **Prof. Zhao Han**  
+- *2025.05 - 2025.08*, REU, **CRA UR2PhD Research Experience**, Tampa, FL.
+<br> *Advisor*: [Prof. Zhao Han](https://www.usf.edu/ai-cybersecurity-computing/people/faculty/zhao_han.aspx).
 <br> *Project*: **Hallucination and Omission in LLM-Generated Storytelling**  
 
-- *2024.10 - 2025.10*, Research Assistant, **RARE Lab**, University of South Florida, Tampa, FL.  
-<br> *Advisor*: **Prof. Zhao Han**  
+- *2024.10 - 2025.10*, Research Assistant, **RARE Lab**, University of South Florida, Tampa, FL.
+<br> *Advisor*: [Prof. Zhao Han](https://www.usf.edu/ai-cybersecurity-computing/people/faculty/zhao_han.aspx).
 <br> *Project*: **LLM-Integrated Interactive Storytelling Robot**
 
 ## Extracurricular {#extracurricular}
 
 - *2026.08 - Present*, **Peer Tutor**, Bellini College of AI, Cybersecurity and Computing, University of South Florida  
-- *2025.01 - 2025.05*, Participant, **CRA's UR2PhD Cohort 5**  
+- *2025.01 - 2025.05*, Participant, **CRA's UR2PhD Cohort 5**
 <br> <span style="font-size:0.9em;">Research Proposal: **An LLM-Integrated Robot to Improve College Students' Mental Health**</span>
 - 2024.08 & 2026.08*, **Program Coordinator and Tutor**, Academic Success Center, University of South Florida  
 - *2025.01 - 2025.05*, **Teaching Assistant, Data Structures**, University of South Florida  
-- *2023.08 - 2025.05*, **Secretary and Lead Designer**, Association for Computing Machinery (ACM), University of South Florida  
-<br> <span style="font-size:0.9em;">Our biggest event of the 2025 academic year: [Tampa's first AI Convention]([https://linktr.ee/ieeecsusf?utm_source=linktree_profile_share&ltsid=f152d2f9-0bbf-414d-a87e-3e7656384fbb](https://www.usf.edu/ai-cybersecurity-computing/news/2025/acm-1st-annual-ai-convention.aspx))</span>
+- *2023.08 - 2025.05*, **Secretary and Lead Designer**, Association for Computing Machinery (ACM), University of South Florida
+<br> <span style="font-size:0.9em;">Our biggest event of the 2025 academic year: [Tampa's first AI Convention](https://www.usf.edu/ai-cybersecurity-computing/news/2025/acm-1st-annual-ai-convention.aspx)</span>
 
 ## Education {#education}
 
 - *2022.08 - 2026.12 (Expected)*, B.S. in Computer Science, [Bellini College of AI, Cybersecurity, and Computing, University of South Florida](https://www.usf.edu/ai-cybersecurity-computing/), Tampa, FL, USA  
-<br> <span style="font-size:0.9em;">
+<!-- <br> <span style="font-size:0.9em;"> -->
 
 ## Updates {#updates}
 - *2026.08*: &nbsp;🧍🦾 I joined the **Robotic Interface for Sit-to-Stand Assistance (RISA)** project with Prof. Yu Sun, where I am working on predictive human simulation to study joint-strength limits, compensatory motion, and robotic assistance.
