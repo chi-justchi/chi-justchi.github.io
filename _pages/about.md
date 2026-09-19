@@ -7,50 +7,64 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi! I'm **Chi Vo**, a Computer Science student at the University of South Florida. I work on **robot learning, vision-language-action models, and embodied AI**, with a particular interest in how learned robot policies behave when they encounter situations that differ from their training data.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Much of my current work keeps bringing me back to one question: > **How can a robot know when its learned behavior can actually be trusted?**
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am also a research assistant @ USF advised by Profs. Fengchun Qiao, Yu Sun, and Zhao Han, and research fellow @ Computing Research Association.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Experience {#experience}
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- *2026 - Present*, Research Assistant, **Adaptive AI Lab**, University of South Florida, Tampa, FL.  
+<br> *Advisor*: **Prof. Fengchun Qiao**  
+<br> *Project*: **Vision-Language-Action Models for Real-World Robot Manipulation & Deployment-Time Robustness**  
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- *2026.08 - Present*, Research Assistant, **Robotic Interface for Sit-to-Stand Assistance (RISA)**, University of South Florida, Tampa, FL.  
+<br> *Advisor*: **Prof. Yu Sun**  
+<br> *Project*: **Predictive Human Simulation for Robotic Sit-to-Stand Assistance**  
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- *2025.06 - 2025.08*, Undergraduate Researcher, **CRA UR2PhD Summer Research Experience**, University of South Florida, Tampa, FL.  
+<br> *Advisor*: **Prof. Zhao Han**  
+<br> *Project*: **Hallucination and Omission in LLM-Generated Storytelling**  
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- *2024.10 - 2025.10*, Research Assistant, **RARE Lab**, University of South Florida, Tampa, FL.  
+<br> *Advisor*: **Prof. Zhao Han**  
+<br> *Project*: **LLM-Integrated Interactive Storytelling Robot**
 
-**Markdown generator**
+## Extracurricular {#extracurricular}
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+- *2026.08 - Present*, **Peer Tutor**, Bellini College of AI, Cybersecurity and Computing, University of South Florida  
+- *2025.01 - 2025.05*, Participant, **CRA's UR2PhD Cohort 5**  
+<br> <span style="font-size:0.9em;">Research Proposal: **An LLM-Integrated Robot to Improve College Students' Mental Health**</span>
+- 2024.08 & 2026.08*, **Program Coordinator and Tutor**, Academic Success Center, University of South Florida  
+- *2025.01 - 2025.05*, **Teaching Assistant, Data Structures**, University of South Florida  
+- *2023.08 - 2025.05*, **Secretary and Lead Designer**, Association for Computing Machinery (ACM), University of South Florida  
+<br> <span style="font-size:0.9em;">Our biggest event of the 2025 academic year: [Tampa's first AI Convention]([https://linktr.ee/ieeecsusf?utm_source=linktree_profile_share&ltsid=f152d2f9-0bbf-414d-a87e-3e7656384fbb](https://www.usf.edu/ai-cybersecurity-computing/news/2025/acm-1st-annual-ai-convention.aspx))</span>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Education {#education}
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+- *2022.08 - 2026.12 (Expected)*, B.S. in Computer Science, [Bellini College of AI, Cybersecurity, and Computing, University of South Florida](https://www.usf.edu/ai-cybersecurity-computing/), Tampa, FL, USA  
+<br> <span style="font-size:0.9em;">
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Updates {#updates}
+- *2026.08*: &nbsp;🧍🦾 I joined the **Robotic Interface for Sit-to-Stand Assistance (RISA)** project with Prof. Yu Sun, where I am working on predictive human simulation to study joint-strength limits, compensatory motion, and robotic assistance.
+
+- *2026.07*: &nbsp;🏆🐕 Our team — **Aibek Shadybekov, Olga Druzhkova, and me** — won **Best Technical Execution at the TASH Hackathon 2026** for our project, *"A Robot Dog That Carries Oxygen and Climbs Stairs."*
+
+- *2026.04*: &nbsp;📖🎤 I got another chance to present our work on **hallucination and omission in LLM-generated storytelling**, this time through the [CRA UR2PhD Graduate School Application Workshops](https://cra.org/ur2phd/for-undergraduate-students/graduate-school-application-workshops/)! 
+
+- *2025.08*: &nbsp;✈️🏆 I traveled from Tampa to Atlanta to participate in the **Emory Health AI Datathon 2025** at Emory University — and our team came home with **3rd place**! Beyond the competition, one of my favorite parts was getting to meet researchers and students from completely different backgrounds and work together under a very short deadline.
+
+- *2025.06 - 2025.08*: &nbsp;📚🔬 I continued my research through **CRA UR2PhD**, studying hallucination and omission in LLM-generated storytelling. We evaluated **120 generated stories** and explored how structured prompting constraints could improve the reliability of generated content.
+
+- *2025.05*: &nbsp;🤖✈️ **My first research conference!!!** I traveled to Atlanta for **ICRA 2025** and presented our work, *"Implementing LLM-Integrated Storytelling Robot,"* at the Workshop on Foundation Models and Neuro-Symbolic AI for Robotics.
+
+- *2025.05*: &nbsp;🎓✨ I completed **CRA's UR2PhD Cohort 5**, where our research proposal focused on *"An LLM-Integrated Robot to Improve College Students' Mental Health."*
+
+- *2025.02*: &nbsp;🧠🎉 As **Secretary of ACM @ USF**, I helped organize our first annual **ACM AI Convention: Interdisciplinary AI**. [Read about the convention here](https://www.usf.edu/ai-cybersecurity-computing/news/2025/acm-1st-annual-ai-convention.aspx).
+
+- *2024.10*: &nbsp;🤖📖 I joined the **RARE Lab** at USF and began working on an LLM-integrated Misty II storytelling robot — my first research experience combining AI with a physical robot.
+
+- *2023.08*: &nbsp;🎨💻 I joined **ACM @ USF** as Lead Designer. What started with designing graphics eventually turned into becoming Secretary the following academic year and helping organize one of our biggest student events.
+
+- *2022.08*: &nbsp;🎓🌴 I started my B.S. in **Computer Science at the University of South Florida** in Tampa, FL.
