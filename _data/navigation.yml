@@ -9,25 +9,16 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: "/#publications"
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Experience"
+    url: "/#experience"
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Updates"
+    url: "/#updates"
+
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+    # url: https://drive.google.com/file/d/1ERoEd9kkm5eBfVlbMItx6t18JNBcSKwu/view?usp=sharing
