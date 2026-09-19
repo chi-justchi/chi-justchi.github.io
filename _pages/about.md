@@ -11,7 +11,7 @@ Hi! I'm **Chi Vo**, a Computer Science student at the University of South Florid
 
 I am also a research assistant @ USF advised by Profs. Fengchun Qiao, Yu Sun, and Zhao Han, and research fellow @ Computing Research Association.
 
-## Select Publication(s) [(Full List)](https://scholar.google.com/citations?user=QjXk8OcAAAAJ&hl=en) {#publications}
+## Select Publication(s) [(Full List)](https://scholar.google.com/citations?user=NTuY8-AAAAAJ&hl=en) {#publications}
 {% include publications.html %}
 
 ## Experience {#experience}
