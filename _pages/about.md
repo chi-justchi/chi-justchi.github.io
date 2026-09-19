@@ -51,7 +51,7 @@ I am also a research assistant @ USF advised by Profs. Fengchun Qiao, Yu Sun, an
 
 - *2026.07*: &nbsp;🏆🐕 Our team — **Aibek Shadybekov, Olga Druzhkova, and me** — won **Best Technical Execution at the TASH Hackathon 2026** for our project, *"A Robot Dog That Carries Oxygen and Climbs Stairs."*
 
-- *2026.04*: &nbsp;📖🎤 I got another chance to present our work on **hallucination and omission in LLM-generated storytelling**, this time through the [CRA UR2PhD Graduate School Application Workshops](https://cra.org/ur2phd/for-undergraduate-students/graduate-school-application-workshops/)! 
+- *2026.04*: &nbsp;📖🎤 I got another chance to present our work on **hallucination and omission in LLM-generated storytelling**, this time through the [UR2PhD Undergraduate Mentoring Workshop and Research Showcase](https://cra.org/crn/2026/08/revisiting-the-ur2phd-undergraduate-mentoring-workshop-and-research-showcase/)! 
 
 - *2025.08*: &nbsp;✈️🏆 I traveled from Tampa to Atlanta to participate in the **Emory Health AI Datathon 2025** at Emory University — and our team came home with **3rd place**! Beyond the competition, one of my favorite parts was getting to meet researchers and students from completely different backgrounds and work together under a very short deadline.
 
