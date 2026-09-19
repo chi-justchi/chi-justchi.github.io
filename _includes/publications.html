@@ -1,0 +1,154 @@
+<style type="text/css">
+  .publication-item {
+    display: flex;
+    margin-bottom: 30px;
+    gap: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+  }
+  .publication-item:last-child {
+    border-bottom: none;
+  }
+  .publication-image {
+    flex-shrink: 0;
+    width: 200px;
+    height: auto;
+    max-height: 200px;
+    display: flex;
+    align-items: center;
+  }
+  .publication-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    background: white;
+  }
+  
+  /* Dark mode support */
+  @media (prefers-color-scheme: dark) {
+    .publication-image img {
+      background: #1a1a1a;
+      border: 1px solid #333;
+    }
+    .publication-title {
+      color: #e0e0e0;
+    }
+    .publication-authors {
+      color: #b0b0b0;
+    }
+    .publication-venue {
+      color: #888;
+    }
+    .publication-item {
+      border-bottom: 1px solid #333;
+    }
+  }
+  
+  /* If your theme uses a class-based dark mode */
+  .dark-mode .publication-image img,
+  [data-theme="dark"] .publication-image img,
+  html.dark .publication-image img {
+    background: #1a1a1a;
+    border: 1px solid #333;
+  }
+  
+  .dark-mode .publication-title,
+  [data-theme="dark"] .publication-title,
+  html.dark .publication-title {
+    color: #e0e0e0;
+  }
+  
+  .dark-mode .publication-authors,
+  [data-theme="dark"] .publication-authors,
+  html.dark .publication-authors {
+    color: #b0b0b0;
+  }
+  
+  .dark-mode .publication-venue,
+  [data-theme="dark"] .publication-venue,
+  html.dark .publication-venue {
+    color: #888;
+  }
+  
+  .dark-mode .publication-item,
+  [data-theme="dark"] .publication-item,
+  html.dark .publication-item {
+    border-bottom: 1px solid #333;
+  }
+  .publication-content {
+    flex: 1;
+  }
+  .publication-title {
+    font-weight: bold;
+    font-size: 14pt;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  .publication-authors {
+    font-size: 11pt;
+    color: #666;
+    margin-bottom: 5px;
+  }
+  .publication-venue {
+    font-size: 11pt;
+    font-style: italic;
+    color: #888;
+    margin-bottom: 8px;
+  }
+  .publication-links a {
+    text-decoration: none;
+    color: #0066cc;
+    margin-right: 15px;
+    font-size: 10pt;
+  }
+  .publication-links a:hover {
+    text-decoration: underline;
+  }
+  .award-badge {
+    display: inline-block;
+    background: #ff5252;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 9pt;
+    font-weight: bold;
+    margin-left: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .publication-item {
+      flex-direction: column;
+    }
+    .publication-image {
+      width: 100%;
+      height: 200px;
+    }
+  }
+</style>
+
+<!-- <h2>Select Publications (<a href="https://scholar.google.com/citations?user=QjXk8OcAAAAJ&hl=en" target="_blank">Full List</a>)</h2> -->
+
+<div class="publication-item">
+  <div class="publication-image">
+    <img src="/images/pub1.png" alt="Publication 1" onerror="this.src='/images/profile.png'">
+  </div>
+  <div class="publication-content">
+    <div class="publication-title">
+      Noise Injection: Improving Out-of-Distribution Generalization for Limited Size Datasets
+      <!-- <span class="award-badge">Best Paper</span> -->
+    </div>
+    <div class="publication-authors">
+      <strong>Duong Mai</strong>, Lawrence Hall
+    </div>
+    <div class="publication-venue">
+      SPIE Medical Imaging 2026: Computer-Aided Diagnosis
+    </div>
+    <div class="publication-links">
+      <a href="https://arxiv.org/pdf/2511.03855" target="_blank">[Abstract]</a>
+      <a href="https://github.com/Duongmai127/Noisy-ood" target="_blank">[Code]</a>
+      <a href="https://spie.org/medical-imaging/presentation/Noise-injection-improving-outofdistribution-generalization-for-limited-size-datasets/13926-12" target="_blank">[Website]</a>
+    </div>
+  </div>
+</div>
