@@ -36,8 +36,9 @@ I am also a research assistant @ USF advised by Profs. Fengchun Qiao, Yu Sun, an
 - *2026.08 - Present*, **Peer Tutor**, Bellini College of AI, Cybersecurity and Computing, University of South Florida  
 - *2025.01 - 2025.05*, Participant, **CRA's UR2PhD Cohort 5**
 <br> <span style="font-size:0.9em;">Research Proposal: **An LLM-Integrated Robot to Improve College Students' Mental Health**</span>
-- 2024.08 & 2026.08*, **Program Coordinator and Tutor**, Academic Success Center, University of South Florida  
-- *2025.01 - 2025.05*, **Teaching Assistant, Data Structures**, University of South Florida  
+- *2025.08 - 2026.08*, **Program Coordinator and Tutor**, College of Engineering, University of South Florida
+- *2024.08 - 2025.08*, **Tutor**, College of Engineering, University of South Florida  
+- *2025.01 - 2025.05*, **Teaching Assistant, Data Structures**, College of Engineering, University of South Florida  
 - *2023.08 - 2025.05*, **Secretary and Lead Designer**, Association for Computing Machinery (ACM), University of South Florida
 <br> <span style="font-size:0.9em;">Our biggest event of the 2025 academic year: [Tampa's first AI Convention](https://www.usf.edu/ai-cybersecurity-computing/news/2025/acm-1st-annual-ai-convention.aspx)</span>
 
